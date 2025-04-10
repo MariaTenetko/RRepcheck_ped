@@ -1,2 +1,2 @@
-# RRepcheck_ped
+# Repcheck_ped
 script for report
